@@ -1,3 +1,4 @@
+from name import read_name, sust
+
 print("Hello World.")
-nombre = input("¿Cuál es tu nombre?")
-print ("Hello", nombre)
+ sust(read_name())
